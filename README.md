@@ -1,1 +1,1 @@
-Layer-wise propogation
+Layer-wise Relevance Propogation
